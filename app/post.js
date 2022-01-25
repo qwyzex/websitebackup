@@ -1,5 +1,5 @@
 import path from "path";
-import fs from "fs";
+import fs from "fs-extra";
 import parseFrontMatter from "front-matter";
 import { marked } from "marked";
 
