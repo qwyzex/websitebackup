@@ -16,6 +16,7 @@
     "firebase": "^9.6.4",
     "front-matter": "^4.0.2",
     "fs": "^0.0.1-security",
+    "fs-extra": "^10.0.0",
     "highlight.js": "^11.4.0",
     "livereload": "^0.9.3",
     "marked": "^4.0.8",
