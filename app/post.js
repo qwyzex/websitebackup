@@ -1,7 +1,6 @@
 import path from "path";
-import fs from "fs/promises";
+import fs from "fs/promises"
 import parseFrontMatter from "front-matter";
-// import invariant from "tiny-invariant";
 import { marked } from "marked";
 
 const postsPath = path.join(__dirname, "..", "posts");
